@@ -44,3 +44,13 @@ The configuration file contains a php array in which you will find all the param
    Background image
 
 You should avoid changing any other parameters unless you know exactly what you are doing (only necessary when developing the application.)
+
+### License
+
+No license, just use it!
+
+### Join me
+
+Linkedin https://www.linkedin.com/in/c%C3%A9sar-b-4a4a6219b/
+
+Blog http://agilitation.wordpress.com/
